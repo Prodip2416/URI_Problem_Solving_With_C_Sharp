@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\1002\1002\bin\Debug\1002.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1002\1002\bin\Debug\1002.exe
+F:\Programming With DOT NET\Problem Solving With C#\1002\1002\bin\Debug\1002.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1002\1002\obj\Debug\1002.exe
+F:\Programming With DOT NET\Problem Solving With C#\1002\1002\obj\Debug\1002.pdb

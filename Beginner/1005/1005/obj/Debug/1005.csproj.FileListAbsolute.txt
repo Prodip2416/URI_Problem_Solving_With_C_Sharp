@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\1005\1005\bin\Debug\1005.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1005\1005\bin\Debug\1005.exe
+F:\Programming With DOT NET\Problem Solving With C#\1005\1005\bin\Debug\1005.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1005\1005\obj\Debug\1005.exe
+F:\Programming With DOT NET\Problem Solving With C#\1005\1005\obj\Debug\1005.pdb
