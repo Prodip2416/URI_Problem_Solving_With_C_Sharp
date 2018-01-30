@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\Problem Solving With C#\1013\1013\bin\Debug\1013.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1013\1013\bin\Debug\1013.exe
+F:\Programming With DOT NET\Problem Solving With C#\1013\1013\bin\Debug\1013.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1013\1013\obj\Debug\1013.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\Problem Solving With C#\1013\1013\obj\Debug\1013.exe
+F:\Programming With DOT NET\Problem Solving With C#\1013\1013\obj\Debug\1013.pdb
