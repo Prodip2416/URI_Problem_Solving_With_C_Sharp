@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\Problem Solving With C#\1018\1018\bin\Debug\1018.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1018\1018\bin\Debug\1018.exe
+F:\Programming With DOT NET\Problem Solving With C#\1018\1018\bin\Debug\1018.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1018\1018\obj\Debug\1018.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\Problem Solving With C#\1018\1018\obj\Debug\1018.exe
+F:\Programming With DOT NET\Problem Solving With C#\1018\1018\obj\Debug\1018.pdb

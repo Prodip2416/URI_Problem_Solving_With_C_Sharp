@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\1019\1019\bin\Debug\1019.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1019\1019\bin\Debug\1019.exe
+F:\Programming With DOT NET\Problem Solving With C#\1019\1019\bin\Debug\1019.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1019\1019\obj\Debug\1019.exe
+F:\Programming With DOT NET\Problem Solving With C#\1019\1019\obj\Debug\1019.pdb
