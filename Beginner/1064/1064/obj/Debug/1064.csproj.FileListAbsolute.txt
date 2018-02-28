@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\Problem Solving With C#\1064\1064\bin\Debug\1064.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1064\1064\bin\Debug\1064.exe
+F:\Programming With DOT NET\Problem Solving With C#\1064\1064\bin\Debug\1064.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1064\1064\obj\Debug\1064.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\Problem Solving With C#\1064\1064\obj\Debug\1064.exe
+F:\Programming With DOT NET\Problem Solving With C#\1064\1064\obj\Debug\1064.pdb

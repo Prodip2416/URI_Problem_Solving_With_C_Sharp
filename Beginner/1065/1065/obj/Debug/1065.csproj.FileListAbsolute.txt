@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\1065\1065\bin\Debug\1065.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1065\1065\bin\Debug\1065.exe
+F:\Programming With DOT NET\Problem Solving With C#\1065\1065\bin\Debug\1065.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1065\1065\obj\Debug\1065.exe
+F:\Programming With DOT NET\Problem Solving With C#\1065\1065\obj\Debug\1065.pdb
