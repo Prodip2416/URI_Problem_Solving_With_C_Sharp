@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\Problem Solving With C#\1072\1072\bin\Debug\1072.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1072\1072\bin\Debug\1072.exe
+F:\Programming With DOT NET\Problem Solving With C#\1072\1072\bin\Debug\1072.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1072\1072\obj\Debug\1072.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\Problem Solving With C#\1072\1072\obj\Debug\1072.exe
+F:\Programming With DOT NET\Problem Solving With C#\1072\1072\obj\Debug\1072.pdb

@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\1070\1070\bin\Debug\1070.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1070\1070\bin\Debug\1070.exe
+F:\Programming With DOT NET\Problem Solving With C#\1070\1070\bin\Debug\1070.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1070\1070\obj\Debug\1070.exe
+F:\Programming With DOT NET\Problem Solving With C#\1070\1070\obj\Debug\1070.pdb
