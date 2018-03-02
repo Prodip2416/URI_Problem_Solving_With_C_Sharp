@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\Problem Solving With C#\1079\1079\bin\Debug\1079.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\1079\1079\bin\Debug\1079.exe
+F:\Programming With DOT NET\Problem Solving With C#\1079\1079\bin\Debug\1079.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1079\1079\obj\Debug\1079.exe
+F:\Programming With DOT NET\Problem Solving With C#\1079\1079\obj\Debug\1079.pdb
+F:\Programming With DOT NET\Problem Solving With C#\1079\1079\obj\Debug\1079.csprojResolveAssemblyReference.cache
