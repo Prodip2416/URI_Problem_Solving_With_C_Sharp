@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\Problem Solving With C#\URI\1101\1101\bin\Debug\1101.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\URI\1101\1101\bin\Debug\1101.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\1101\1101\bin\Debug\1101.pdb
+F:\Programming With DOT NET\Problem Solving With C#\URI\1101\1101\obj\Debug\1101.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\Problem Solving With C#\URI\1101\1101\obj\Debug\1101.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\1101\1101\obj\Debug\1101.pdb
