@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\URI\1113\1113\bin\Debug\1113.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\URI\1113\1113\bin\Debug\1113.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\1113\1113\bin\Debug\1113.pdb
+F:\Programming With DOT NET\Problem Solving With C#\URI\1113\1113\obj\Debug\1113.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\1113\1113\obj\Debug\1113.pdb
