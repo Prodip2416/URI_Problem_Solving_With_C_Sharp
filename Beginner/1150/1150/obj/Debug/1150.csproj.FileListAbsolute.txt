@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\URI\1150\1150\bin\Debug\1150.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\URI\1150\1150\bin\Debug\1150.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\1150\1150\bin\Debug\1150.pdb
+F:\Programming With DOT NET\Problem Solving With C#\URI\1150\1150\obj\Debug\1150.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\1150\1150\obj\Debug\1150.pdb

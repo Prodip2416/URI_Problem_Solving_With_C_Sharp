@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\Problem Solving With C#\URI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Programming With DOT NET\Problem Solving With C#\URI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Programming With DOT NET\Problem Solving With C#\URI\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Programming With DOT NET\Problem Solving With C#\URI\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
