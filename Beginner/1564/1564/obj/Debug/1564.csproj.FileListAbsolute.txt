@@ -1,0 +1,6 @@
+F:\URI\1564\1564\bin\Debug\1564.exe.config
+F:\URI\1564\1564\obj\Debug\1564.csprojResolveAssemblyReference.cache
+F:\URI\1564\1564\bin\Debug\1564.exe
+F:\URI\1564\1564\bin\Debug\1564.pdb
+F:\URI\1564\1564\obj\Debug\1564.exe
+F:\URI\1564\1564\obj\Debug\1564.pdb
