@@ -1,0 +1,6 @@
+F:\URI\1865\1865\bin\Debug\1865.exe.config
+F:\URI\1865\1865\bin\Debug\1865.exe
+F:\URI\1865\1865\bin\Debug\1865.pdb
+F:\URI\1865\1865\obj\Debug\1865.csprojResolveAssemblyReference.cache
+F:\URI\1865\1865\obj\Debug\1865.exe
+F:\URI\1865\1865\obj\Debug\1865.pdb
