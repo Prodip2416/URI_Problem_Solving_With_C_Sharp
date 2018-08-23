@@ -1,0 +1,6 @@
+F:\URI\1921\1921\bin\Debug\1921.exe.config
+F:\URI\1921\1921\bin\Debug\1921.exe
+F:\URI\1921\1921\bin\Debug\1921.pdb
+F:\URI\1921\1921\obj\Debug\1921.csprojResolveAssemblyReference.cache
+F:\URI\1921\1921\obj\Debug\1921.exe
+F:\URI\1921\1921\obj\Debug\1921.pdb
